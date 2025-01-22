@@ -13,6 +13,11 @@
   
   3- Real-Time Interaction
 
+  4- Integration with Agile Tools
+
+  5- Simplified Session Management
+
+
 - Features 'Updated'
   
   1- Create and join estimation poker sessions.
